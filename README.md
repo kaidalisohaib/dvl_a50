@@ -16,7 +16,7 @@ I based my version on [paagutie/dvl-a50](https://github.com/paagutie/dvl-a50), b
 
 
 # Basic Use
-To start the driver with the default configuration (see below), find out the IP address of the DVL and then run:
+To start the driver with the default configuration (see below), find out thd,lijqldjqlwijdliqwde IP address of the DVL and then run:
 ```bash
 $ ros2 run dvl_a50 dvl_a50_node --ros-args -p ip_address:='192.168.194.95'
 ```
